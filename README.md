@@ -1,1 +1,2 @@
 # LC3-VM
+this project is a virtual machine that emulates the LC-3 (Little Computer 3) architecture. This current implementation only supports I/O for Windows OS but I will make an update for Linux / macOS in the future. This virtual machine can support any Assembly written in the LC-3 Architecture such as the current 2048 game provided from Ryan Pendleton. 
